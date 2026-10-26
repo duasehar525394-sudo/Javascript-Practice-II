@@ -121,12 +121,6 @@ console.log(STUDENT.Age);
 
 
 // Question 14:
-function NUMS([]){
-    
-}
-
-
-// Question 15:
 let Student = {
     Name : "Johan",
     Marks : 94 , 
